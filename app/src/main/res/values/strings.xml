@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MedalCase</string>
+    <string name="nav_title">Achievements</string>
+    <string name="personal_records">Personal Records</string>
+    <string name="virtual_races">Virtual Races</string>
+    <string name="not_yet">Not Yet</string>
+</resources>
